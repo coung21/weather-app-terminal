@@ -66,7 +66,7 @@ The Weather App uses the OpenWeatherMap API to retrieve weather information. To 
 
 ## Screenshots
 
-![App Screenshot]('')
+![App screenshot](https://user-images.githubusercontent.com/120638231/229171619-66c960bc-1bf9-4d8d-86e2-68eeba6779a7.png)
 
 
 
