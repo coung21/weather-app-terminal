@@ -55,7 +55,7 @@ To view the available commands and options, run the `app.js` script with the `we
 
 ## Configuration
 
-The Weather App uses the OpenWeatherMap API to retrieve weather information. To use the application, you need to obtain an API key from [OpenWeatherMap](https://openweathermap.org/) and set it as a constant `API_KEY` in `app.js`
+The Weather App uses the OpenWeatherMap API to retrieve weather information. To use the application, you need to obtain an API key from [OpenWeatherMap](https://openweathermap.org/) and set it as a constant `API_KEY` value's in `app.js`
 
 ```javascript
  const API_KEY = <your_api_key> // replace with your own api key
